@@ -1,0 +1,3717 @@
+FEEDERS.
+        Feeder name: AT2 FDR_6
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT2 MBP
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT2 WUSE 11 FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT3 H1
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT3 H2
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT5 CENTRAL   AREA FD2
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT5 CENTRAL AREA FD3
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT5 CENTRAL AREA FD4
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT5 CENTRAL AREA FD5
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT5 FDR_6
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: KATAMPE3 MBP
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT5 FDR_9 PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT2 MPAPE FDR_PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: H3
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: H5
+ 
+        Feeder type: 33KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: AT9 KARU TS K5
+ 
+        Feeder type: 33KV
+
+        Region: FCT East
+
+
+
+        Feeder name: AT9 K1
+ 
+        Feeder type: 33KV
+
+        Region: FCT East
+
+
+
+        Feeder name: AT9 K3
+ 
+        Feeder type: 33KV
+
+        Region: FCT East
+
+
+
+        Feeder name: AT9 K4
+ 
+        Feeder type: 33KV
+
+        Region: FCT East
+
+
+
+        Feeder name: AT9 K2 PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT East
+
+
+
+        Feeder name: K6
+ 
+        Feeder type: 33KV
+
+        Region: FCT East
+
+
+
+        Feeder name: AT2 GWARIMPA FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT2 LIFECAMP FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT4_DAWAKI FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT5 FDR_8
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT6_SULEJA TS JIWA FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: KUKWABA L34
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: KUKWABA L36_PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT2 JABI FDR_PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT2 JAHI FDR_PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT2 9MOBILE FDR_PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: KUKWABA L35 PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT2 WUSE2
+ 
+        Feeder type: 33KV
+
+        Region: FCT North
+
+
+
+        Feeder name: AT3_H31
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: AT3_H37
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: AT3_H23
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: AT3_H35
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: KUKWABATS_L33
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: AT3 H33_PL PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: KUKWABA L31_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: AT3_H1
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: KUKWABA_L36
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: AT3_H21
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: GWAGWALADA TS_L35
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: GWAGWALADA TS_L36
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: KUKWABA L32_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: KUKWABA TS_L36
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: GW L31_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: GLADA TS_L32
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: AT3_H23_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: AT4_BWARI FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT4_DAM FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT4_DEIDEI FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT4_KUBWA FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT4_NIPP FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT6_JIWA
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT6_JERE
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT6_SULEJA TS_FIELDBASE FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT6_SULEJA TS_SULEJA TOWNSHIP FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: AT6_ABUJA STEEL_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: INDUSTRIAL FDR
+ 
+        Feeder type: 33KV
+
+        Region: FCT West
+
+
+
+        Feeder name: LOKOJA TS FDR 2
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: OKENE TS OKENE FDR
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: OKENE OSOSO PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: OKENE LOKOJA/OKENE PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: OKENE ISANLU MAKUTU FDR PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: LOKOJA FDR 3 CBN PL PL 
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: LOKOJA FDR 1 PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: AJAOKUTA ADOGO PL PL 
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: AJAOKUTA WEST AFRICA CERAMICS PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: AJAOKUTA STEEL PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: AJAOKUTA CONFLUENCE PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: OKENE IKARE PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: AJAOKUTA ANYIGBA PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Kogi
+
+
+
+        Feeder name: AT7_AKWANGA FDR
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AT7 AKWANGA LAFIA FDR
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AT8 KEFFI FDR
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AT8 UKE/MASAKA PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AT8_GRA_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AT7 FDR 3(WATERBOARD)_PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AKURBA FDR A2 PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AKURBA FDR A5 PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: NASARAWA FDR
+ 
+        Feeder type: 33KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: BIDA TS LEMU FDR
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: BIDA TS TR3
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: KONTAGORA TS TOWNSHIP FDR
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA TS 132/11kV
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA TS MAIKUNKELE
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA TS PAIKO FDR
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA TS POWER HOUSE
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA TS ZARUMAI
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: TEGINA MARIGA PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: TEGINA KAGARA PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: SHIRORO GWADA PL_PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA NNPC PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA FUT PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA KATAREGI PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: MINNA BIRIGI PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: BIDA KUTIGI PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: BIDA DOKO PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: KONTAGORA WATERWORKS  PL PL
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: BIDA TS OLD AGAIE FDR
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: BIDA TS NEW AGAIE FDR
+ 
+        Feeder type: 33KV
+
+        Region: Niger
+
+
+
+        Feeder name: 1LEFT
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: 2LEFT
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: 4LEFT
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: 5&8LEFT
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: 7LEFT
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 10A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 10B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 1B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 4A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 5B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 6A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 6B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 7A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 7B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 8A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 8B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 9B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD L1
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD R10
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD1_ICC
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD2 
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD2 NICON LUXURY
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD20
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD21
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD22
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD23
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD24
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD3
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD4
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD5
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD6
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD7
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: M/H
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 1A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 1B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 2A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 2B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 3A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 4A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 5A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 5B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 6A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 6B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 7A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 7B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 8A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 8B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 9A
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: RM 9B
+ 
+        Feeder type: 11KV
+
+        Region: FCT Central
+
+
+
+        Feeder name: FD 1A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 1B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 2A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 2B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 3A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 4A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 5A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 5B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD 6A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD10
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD14
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD17
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD18
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD2
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD26
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD27
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD3
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD4
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD5
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD6
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD7
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD8
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: FD9
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 1A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 1B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 2A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 2B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 3A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 4A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 5A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 5B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 6A
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: RM 6B
+ 
+        Feeder type: 11KV
+
+        Region: FCT East
+
+
+
+        Feeder name: ADKAN FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 10A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 10B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 11A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 13B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 1B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 2A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 2B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 3A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 4A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 5A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 6A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 6B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 7A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 7B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 8B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD 9A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD2
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: FD3
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: K12
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: K14
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: K5
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: K6
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE C
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE D
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE E
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE F
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: LINE H
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 1B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 2A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 2B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 3A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 5A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 5B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 6A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 6B
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: RM 7A
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: SETRACO FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT North
+
+
+
+        Feeder name: BEHIND TRANSMISSION
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: EYE CLINIC FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: FD K10
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: FD2
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: GAMES VILL. FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: INDOOR_COMPLEX
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: NAT. STADIUM FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: PARADISE ESTATE FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: RM 1A
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: RM 2A
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: RM 2B
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: RM 3B
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: RM 4A
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: RM 4B
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: TRADEMORE FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-East
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: FD2
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: FD22
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: FD3
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: FD4
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: FD5
+ 
+        Feeder type: 11KV
+
+        Region: FCT South-South
+
+
+
+        Feeder name: DIKKO
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD N1
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD N2
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD2
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: MADALLA
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD3
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: HASSAN DALHATU
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD4
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: GAURAKA
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: MINNA ROAD
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: NASARA
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: NNPC
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: RAFINSENYI FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: SULEIMAN BARAU FDR
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: WATER_WORKS
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: SULEJA SMART
+ 
+        Feeder type: 11KV
+
+        Region: FCT West
+
+
+
+        Feeder name: FD1
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: FD2
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: FD3
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: FD4
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: GANAJA
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: GRA
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: OTOKITI FDR
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: TOWNSHIP FDR
+ 
+        Feeder type: 11KV
+
+        Region: Kogi
+
+
+
+        Feeder name: FD 1A
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: FD 1B
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: FD 1C FD 1D
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: FD1 FD1 EGGON-FDR
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: FD2 FD3
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: FULAF
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: GH
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: SMART FDR
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: TAAL
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: TOTO FDR
+ 
+        Feeder type: 11KV
+
+        Region: Nasarawa
+
+
+
+        Feeder name: AIRPORT
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: ARMY BARRACK FDR
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: BOSSO ROAD
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: CHANCHAGA
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: DUTSEN KURA
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: FD4
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: GOJE
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: GRA
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: HAJJ CAMP
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: MAIKUNKELE
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: MAITUMBI
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: PAIKO FDR
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: PARLIAMENTARY
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: PIGGERY
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: SHIRORO HOTEL
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: TOWN FDR
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: TUDUN FULANI
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: TUNGA
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: WUSHISHI
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+
+        Feeder name: ZUNGERU FDR
+ 
+        Feeder type: 11KV
+
+        Region: Niger
+
+
+STATIONS.
+        Station name: 2X15MVA C4_MAITAMA MH
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA_C3 MAITAMA
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA B5 BRITISH VILLAGE
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA_B52_TURKISH SCHOOL
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA_G22_GARKI
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA_G24_NAT HOSP
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA G25 EMBASSY ZONE
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA G32 GARKI MKT
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA G4_GARKI 11
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA B33 BY NEXIM BANK
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA B32 BERGER
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA G2 AREA 10
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 4X15MVA G42 BY FINANCE
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 1X7.5MVA G23 ICC
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 2X15MVA C2 MAITAMA
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: 4X15MVA R4_3ARMS ZONE
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 3X15MVA R5 C/A
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 2X15MVA_R2 EYADEMA ST
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 3X15MVA R3 POWER_HOUSE
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 2X15MVA R6_VILLA
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 3X15MVA_R7 GUZAPE 
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 2X15MVA A22 KARU 
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 2X15MVA A23 GWAGWALAPE
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 2X7.5MVA J32 ADO
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 2X15MVA_J22 MARARABA
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: 1.7.5MVA F1 JIWA
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 1.7.5MVA T2 KATAMPE
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 1X15MVA M44_CHARLY BOY
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 1X15MVA-M43 SETRACO
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 2X15MVA B6_UTAKO
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 2X15MVA_M42_GWARIMPA
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 2X15MVA WUYE 1
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 2X15MVA_WUYE 2
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 3X15MVA_M2_JABI
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 3X15MVA_T1 KATAMPE
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: 2X15MVA NIPP INJ S/S
+
+        Station type: injection substation
+
+        Region: FCT South-East
+
+
+
+        Station name: 2X15MVA_S22_GUDU 1
+
+        Station type: injection substation
+
+        Region: FCT South-East
+
+
+
+        Station name: 2X15MVA_S23_GUDU 2
+
+        Station type: injection substation
+
+        Region: FCT South-East
+
+
+
+        Station name: 2X15MVA_S25_GAMES VILLAGE
+
+        Station type: injection substation
+
+        Region: FCT South-East
+
+
+
+        Station name: 2X7.5MVA_GADUWA
+
+        Station type: injection substation
+
+        Region: FCT South-East
+
+
+
+        Station name: 1X15MVA_L5_KUJE
+
+        Station type: injection substation
+
+        Region: FCT South-South
+
+
+
+        Station name: 1X7.5MVA_L3_ABAJI
+
+        Station type: injection substation
+
+        Region: FCT South-South
+
+
+
+        Station name: 2X15MVA_E2_LUGBE
+
+        Station type: injection substation
+
+        Region: FCT South-South
+
+
+
+        Station name: 2X15MVA_L2_GWAGWALADA
+
+        Station type: injection substation
+
+        Region: FCT South-South
+
+
+
+        Station name: 2X7.5MVA_L4_KWALI
+
+        Station type: injection substation
+
+        Region: FCT South-South
+
+
+
+        Station name: 1X15MVA_MOPOL_BARRACKS
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 1X7.5_MOBITRA_SULEJA_TS
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 1X7.5MVA_K32_LOWER_USMAN_DAM
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 2X15MVA_FIELD_BASE
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 2X15MVA_K2_KUBWA
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 2X15MVA_K3_OPP_FGGC
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 2X15MVA_KANTOMA_INJ. S/S
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 2X15MVA_NIPP_BYAZHIN
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 2X15MVA_SABON_WUSE
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 4X15MVA_K33_SAMBISA_BWARI
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: 1X7.5MVA LOKOGOMA INJ S/S
+
+        Station type: injection substation
+
+        Region: Kogi
+
+
+
+        Station name: 2X15MVA LOKOJA MAIN INJ. S/S
+
+        Station type: injection substation
+
+        Region: Kogi
+
+
+
+        Station name: 2X7.5MVA OSUWAYA INJ. S/S
+
+        Station type: injection substation
+
+        Region: Kogi
+
+
+
+        Station name: 1X15MVA A20 INJ S/S AKWANGA
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 1X15MVA A28 NAS EGGON
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 1X7.5MVA K35 NAS TOTO
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 2X15MVA K34 KEFFI
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 2X15MVA_L15_SHANDAM RD LAFIA
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 2X7.5MVA_L14_JOS RD LAFIA
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 2X7.5MVA L15 MAKURDI RD LAFIA
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 2X7.5MVA_L16 MAKURDI RD LAFIA
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: 1X15MVA WUSHISHI INJ. S/S
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 1X15MVA ZARUMAI INJ. S/S
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 1X7.5MVA PAIKO INJ S/S 
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 2X15MVA BIDA TS INJ SS
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 2X15MVA KONTAGORA INJ. S/S 
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 2X15MVA MINNA TS INJ. S/S 
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 2X15MVA POWER HOUSE INJ. S/S
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: 2X7 5MVA MAIKUNKELE INJ. S/S
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+
+        Station name: Apo
+
+        Station type: transmission station
+
+        Region: FCT Central
+
+
+
+        Station name: Central Area
+
+        Station type: transmission station
+
+        Region: FCT Central
+
+
+
+        Station name: Katampe
+
+        Station type: transmission station
+
+        Region: FCT Central
+
+
+
+        Station name: Apo
+
+        Station type: transmission station
+
+        Region: FCT East
+
+
+
+        Station name: Karu
+
+        Station type: transmission station
+
+        Region: FCT East
+
+
+
+        Station name: Central Area
+
+        Station type: transmission station
+
+        Region: FCT East
+
+
+
+        Station name: Central Area
+
+        Station type: transmission station
+
+        Region: FCT North
+
+
+
+        Station name: Katampe3
+
+        Station type: transmission station
+
+        Region: FCT North
+
+
+
+        Station name: Kubwa
+
+        Station type: transmission station
+
+        Region: FCT North
+
+
+
+        Station name: Kukwaba
+
+        Station type: transmission station
+
+        Region: FCT North
+
+
+
+        Station name: Suleja
+
+        Station type: transmission station
+
+        Region: FCT North
+
+
+
+        Station name: AT2 Katampe
+
+        Station type: transmission station
+
+        Region: FCT North
+
+
+
+        Station name: Apo
+
+        Station type: transmission station
+
+        Region: FCT South-East
+
+
+
+        Station name: Kukwaba
+
+        Station type: transmission station
+
+        Region: FCT South-East
+
+
+
+        Station name: Apo
+
+        Station type: transmission station
+
+        Region: FCT South-South
+
+
+
+        Station name: Gwagwalada
+
+        Station type: transmission station
+
+        Region: FCT South-South
+
+
+
+        Station name: Kukwaba
+
+        Station type: transmission station
+
+        Region: FCT South-South
+
+
+
+        Station name: Kubwa
+
+        Station type: transmission station
+
+        Region: FCT West
+
+
+
+        Station name: Suleja
+
+        Station type: transmission station
+
+        Region: FCT West
+
+
+
+        Station name: Lokoja
+
+        Station type: transmission station
+
+        Region: Kogi
+
+
+
+        Station name: Okene
+
+        Station type: transmission station
+
+        Region: Kogi
+
+
+
+        Station name: Ajaokuta TS
+
+        Station type: transmission station
+
+        Region: Kogi
+
+
+
+        Station name: Akwanga
+
+        Station type: transmission station
+
+        Region: Nasarawa
+
+
+
+        Station name: Keffi
+
+        Station type: transmission station
+
+        Region: Nasarawa
+
+
+
+        Station name: Akurba
+
+        Station type: transmission station
+
+        Region: Nasarawa
+
+
+
+        Station name: Bida
+
+        Station type: transmission station
+
+        Region: Niger
+
+
+
+        Station name: Kontagora
+
+        Station type: transmission station
+
+        Region: Niger
+
+
+
+        Station name: Minna
+
+        Station type: transmission station
+
+        Region: Niger
+
+
+
+        Station name: Shiroro
+
+        Station type: transmission station
+
+        Region: Niger
+
+
+
+        Station name: Tegina
+
+        Station type: transmission station
+
+        Region: Niger
+
+
+
+        Station name: R2
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: FCT Central
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: FCT East
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: FCT North
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: FCT South-East
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: FCT South-South
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: FCT West
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: Kogi
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: Nasarawa
+
+
+
+        Station name: No injection substation
+
+        Station type: injection substation
+
+        Region: Niger
+
+
+REGIONS.
+        Region name: FCT Central
+
+        Region name: FCT East
+
+        Region name: FCT North
+
+        Region name: FCT South-East
+
+        Region name: FCT South-South
+
+        Region name: FCT West
+
+        Region name: Kogi
+
+        Region name: Nasarawa
+
+        Region name: Niger
+
+        Region name: HQ
+
+
+
+AREA OFFICES.
+        Area office name: MAITAMA
+
+        Region: FCT Central
+
+
+
+        Area office name: MPAPE
+
+        Region: FCT Central
+
+
+
+        Area office name: WUSE
+
+        Region: FCT Central
+
+
+
+        Area office name: GARKI
+
+        Region: FCT Central
+
+
+
+        Area office name: ASOKORO
+
+        Region: FCT Central
+
+
+
+        Area office name: ADO
+
+        Region: FCT East
+
+
+
+        Area office name: JIKWOYI
+
+        Region: FCT East
+
+
+
+        Area office name: KARU
+
+        Region: FCT East
+
+
+
+        Area office name: MARARABA
+
+        Region: FCT East
+
+
+
+        Area office name: GWARIMPA
+
+        Region: FCT North
+
+
+
+        Area office name: JABI
+
+        Region: FCT North
+
+
+
+        Area office name: JAHI
+
+        Region: FCT North
+
+
+
+        Area office name: KATAMPE
+
+        Region: FCT North
+
+
+
+        Area office name: LIFE CAMP
+
+        Region: FCT North
+
+
+
+        Area office name: APO
+
+        Region: FCT South-East
+
+
+
+        Area office name: GALADINMAWA
+
+        Region: FCT South-East
+
+
+
+        Area office name: KABUSA
+
+        Region: FCT South-East
+
+
+
+        Area office name: LOKOGOMA
+
+        Region: FCT South-East
+
+
+
+        Area office name: ABAJI
+
+        Region: FCT South-South
+
+
+
+        Area office name: GWAGWALADA
+
+        Region: FCT South-South
+
+
+
+        Area office name: KUJE
+
+        Region: FCT South-South
+
+
+
+        Area office name: LUGBE
+
+        Region: FCT South-South
+
+
+
+        Area office name: TRADEMORE
+
+        Region: FCT South-South
+
+
+
+        Area office name: BWARI
+
+        Region: FCT West
+
+
+
+        Area office name: GBAZANGO
+
+        Region: FCT West
+
+
+
+        Area office name: KUBWA
+
+        Region: FCT West
+
+
+
+        Area office name: SULEJA
+
+        Region: FCT West
+
+
+
+        Area office name: ZUMA
+
+        Region: FCT West
+
+
+
+        Area office name: IDAH
+
+        Region: Kogi
+
+
+
+        Area office name: KABBA
+
+        Region: Kogi
+
+
+
+        Area office name: LOKOJA
+
+        Region: Kogi
+
+
+
+        Area office name: OKENE
+
+        Region: Kogi
+
+
+
+        Area office name: AKWANGA
+
+        Region: Nasarawa
+
+
+
+        Area office name: KEFFI
+
+        Region: Nasarawa
+
+
+
+        Area office name: LAFIA
+
+        Region: Nasarawa
+
+
+
+        Area office name: MASAKA
+
+        Region: Nasarawa
+
+
+
+        Area office name: OBI
+
+        Region: Nasarawa
+
+
+
+        Area office name: BOSSO
+
+        Region: Niger
+
+
+
+        Area office name: KONTAGORA
+
+        Region: Niger
+
+
+
+        Area office name: MINNA
+
+        Region: Niger
+
+
+
+        Area office name: MAITAM2
+
+        Region: FCT Central
+
+
