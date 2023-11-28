@@ -1,6 +1,8 @@
-# flutter_mdb
+# Movie cloud
 
 A new Flutter project.
+
+![](assets/app_layout.jpg)
 
 ## Getting Started
 
