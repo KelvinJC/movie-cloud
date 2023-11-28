@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](lib/assets/app_layout.jpg)
+![](assets/app_layout.jpg)
 
 ## Getting Started
 
