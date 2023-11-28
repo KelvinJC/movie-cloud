@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![]lib/assets/app_layout.jpg
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
