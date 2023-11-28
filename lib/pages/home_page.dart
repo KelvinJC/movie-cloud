@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mdb/api/services.dart';
 import 'package:flutter_mdb/api/config.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -54,18 +55,21 @@ class _HomePageState extends State<HomePage> {
               )
           ),
         ),
-
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 20),
-            child: Icon(Icons.person),
+            child: CircleAvatar(
+              backgroundImage: AssetImage('assets/beach3.png'),
+            ),
+            // Icon(Icons.person)
           )
         ],
-
         title: Text(
-            'Movie Cloud'
+            'Movie Cloud',
+            style: GoogleFonts.montserrat(
+              fontWeight: FontWeight.bold
+            ),
         ),
-
       ),
 
 
@@ -109,7 +113,9 @@ class _HomePageState extends State<HomePage> {
               children: [
                 Text(
                   'Trending Movies',
-                  style: TextStyle(
+                  style: GoogleFonts.montserrat(
+                    fontWeight: FontWeight.bold
+
                   ),
                 ),
               ],
